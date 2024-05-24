@@ -1,0 +1,8 @@
+langchain
+pinecone-client
+pypdf
+openai
+tiktoken
+langchain-community 
+chromadb==0.3.29
+# pysqlite3-binary
